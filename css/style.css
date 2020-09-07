@@ -48,3 +48,10 @@ body {
 }
 
 
+.dropS{
+
+
+    filter: drop-shadow(1 1 1 red);
+    border: 10px black;
+ 
+}
